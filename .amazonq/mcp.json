@@ -1,0 +1,23 @@
+{
+  "mcpServers": {
+    "responsible-vibe-mcp": {
+      "command": "npx",
+      "args": [
+        "responsible-vibe-mcp"
+      ]
+    },
+    "playwright": {
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@latest"
+      ]
+    },
+    "slidev Docs": {
+      "command": "npx",
+      "args": [
+        "mcp-remote",
+        "https://gitmcp.io/slidevjs/slidev"
+      ]
+    }
+  }
+}
