@@ -1,6 +1,6 @@
 ---
 layout: image-lower-third
-image: ./images/24-moment-of-clarity.png
+image: /24-moment-of-clarity.png
 ---
 
 # Context is All You Need

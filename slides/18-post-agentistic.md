@@ -1,32 +1,16 @@
 ---
-layout: two-cols
+layout: image-lower-third
+image: /18-future-collaboration.png
 ---
 
-# LLMs as Flexible Orchestrators
-*Not rigid agents, but intelligent collaborators*
-
-<div class="mt-8">
-<div class="inline-block w-6 h-6 bg-purple-500 rounded text-white text-xs flex items-center justify-center text-4xl text-gray-400 inline mr-4">🗺️</div>
-<uim-arrow-circle-right class="text-2xl text-gray-400 inline mr-4"/>
-<div class="inline-block w-6 h-6 bg-green-700 rounded text-white text-xs flex items-center justify-center text-4xl text-blue-500 inline">🧠</div>
-</div>
-
-<div class="mt-4 text-lg">
-From rigid pipelines to intelligent choice
-</div>
-
-::right::
-
-<div class="text-center">
-<uim-rocket class="text-8xl text-purple-500 mx-auto mb-4"/>
-<div class="text-lg font-bold">The Future:</div>
-<div class="text-base">LLMs choose their own tools and context</div>
-</div>
+# Post-Agentistic AI
 
 <!--
-This leads us to what I call a post-agentistic vision. Instead of rigid agent pipelines that constrain LLM flexibility, we let mature LLMs orchestrate their own tool usage.
+*Beyond agents to intelligent collaboration*
 
-Think about it: LLMs are getting better at using tools flexibly through standards like the Model Context Protocol. Why force them into rigid agent workflows when they can intelligently choose what they need?
+This represents the future I think we're moving toward - post-agentistic AI. Instead of orchestrating multiple specialized agents, we work with mature AI systems that can intelligently navigate complex contexts.
 
-It's like the difference between a strict assembly line and a skilled craftsperson who selects the right tools for each task. The craftsperson approach leverages the full capability of the mature system.
+The rocket launching represents this leap from the complexity of agent management to the simplicity of context-based collaboration.
+
+It's not about eliminating agents entirely, but about recognizing when mature AI can work more effectively with rich context than with rigid workflows.
 -->

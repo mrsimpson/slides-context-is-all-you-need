@@ -1,55 +1,20 @@
 ---
-layout: default
+layout: image-lower-third
+image: /19-implementation-practice.png
 ---
 
-# How Context Engineering Works in Practice
-
-<div class="grid grid-cols-2 gap-8 mt-12">
-
-<div>
-<div class="flex items-center mb-4">
-<div class="bg-blue-500 text-white rounded-full w-8 h-8 flex items-center justify-center mr-3">🔍</div>
-<div class="text-lg font-bold">Phase Recognition</div>
-</div>
-<div class="text-sm text-gray-600 ml-11">System understands current development phase</div>
-</div>
-
-<div>
-<div class="flex items-center mb-4">
-<div class="bg-green-500 text-white rounded-full w-8 h-8 flex items-center justify-center mr-3">⌖</div>
-<div class="text-lg font-bold">Context Selection</div>
-</div>
-<div class="text-sm text-gray-600 ml-11">Provides relevant information for that phase</div>
-</div>
-
-<div>
-<div class="flex items-center mb-4">
-<div class="bg-orange-500 text-white rounded-full w-8 h-8 flex items-center justify-center mr-3">🔧</div>
-<div class="text-lg font-bold">Flexible Orchestration</div>
-</div>
-<div class="text-sm text-gray-600 ml-11">LLM chooses appropriate tools and approaches</div>
-</div>
-
-<div>
-<div class="flex items-center mb-4">
-<div class="bg-purple-500 text-white rounded-full w-8 h-8 flex items-center justify-center mr-3">🧠</div>
-<div class="text-lg font-bold">Natural Memory</div>
-</div>
-<div class="text-sm text-gray-600 ml-11">Context builds understanding over time</div>
-</div>
-
-</div>
+# Practical Implementation
 
 <!--
-In practice, Context Engineering works through four key elements:
+Context Engineering in practice involves four key activities:
 
-First, the system recognizes what phase of development you're in - are you exploring, designing, implementing, or debugging?
+**Context Discovery:** Understanding what information exists in your system - code, documentation, logs, user feedback, business requirements.
 
-Second, it provides the context that's relevant for that specific phase, filtering out the noise.
+**Context Filtering:** Determining what's relevant for the current task and phase. This is where the art comes in.
 
-Third, it lets the LLM orchestrate flexibly - choosing the right tools and approaches for the task at hand.
+**Context Delivery:** Providing the right information in the right format at the right time. This might be through APIs, file inclusion, or structured prompts.
 
-Fourth, it builds natural memory over time, so context accumulates and understanding deepens throughout the project.
+**Context Adaptation:** Observing how the AI system responds and adjusting your context strategy accordingly.
 
-This isn't about replacing human judgment - it's about augmenting it with intelligent context management.
+This is engineering work - systematic, measurable, and improvable.
 -->

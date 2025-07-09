@@ -1,29 +1,24 @@
 ---
-layout: center
+layout: image-lower-third
+image: /12-development-pattern.png
 ---
 
-# Each Approach Matched Its Time
-
-<div class="text-center space-y-8">
-
-<div class="text-xl">
-<div class="inline-block w-6 h-6 bg-blue-400 rounded text-white text-xs flex items-center justify-center inline text-blue-400 mr-2">👶</div> Early LLMs → <div class="inline-block w-6 h-6 bg-orange-500 rounded text-white text-xs flex items-center justify-center inline text-orange-500 mr-2">📄</div> Detailed Instructions
-</div>
-
-<div class="text-xl">
-<div class="inline-block w-6 h-6 bg-green-400 rounded text-white text-xs flex items-center justify-center inline text-green-400 mr-2">🧒</div> Capable LLMs → <div class="inline-block w-6 h-6 bg-purple-500 rounded text-white text-xs flex items-center justify-center inline text-purple-500 mr-2">🗺️</div> Structured Workflows
-</div>
-
-<div class="text-2xl font-bold">
-<div class="inline-block w-6 h-6 bg-blue-700 rounded text-white text-xs flex items-center justify-center inline text-blue-600 mr-2">👤</div> Mature LLMs → <div class="inline-block w-6 h-6 bg-orange-500 rounded text-white text-xs flex items-center justify-center inline text-red-500 mr-2">💾</div> **Context Collaboration**
-</div>
-
-</div>
+# Evolution
 
 <!--
-Here's the pattern: each approach matched the maturity level of the LLMs available at the time. Early LLMs needed detailed instructions. More capable LLMs could handle structured workflows. 
+Here's the pattern that emerges when you look at these three approaches together. It's not random - it follows the same developmental pattern we see in human growth.
 
-But now we have mature LLMs that are ready for something different: true context-based collaboration.
+👶 Early LLMs → 📄 Detailed Instructions
 
-The question isn't which approach was right or wrong - it's recognizing when it's time to evolve to the next level.
+Early LLMs, like young children, needed detailed step-by-step instructions for everything. The mega-prompt approach was perfect for this stage.
+
+🧒 Capable LLMs → 🗺️ Structured Workflows  
+
+Capable LLMs, like older children, could handle more complex tasks but still needed structure and clear workflows. The agent approach served this need well.
+
+👤 Mature LLMs → 💾 **Context Collaboration**
+
+Mature LLMs, like responsible adults, can work intelligently within provided context without needing every step spelled out. This is where Context Engineering becomes the natural next evolution.
+
+The key insight is that we're not abandoning the previous approaches - we're recognizing when each one is most appropriate based on the maturity level we're working with.
 -->

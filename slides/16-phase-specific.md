@@ -1,39 +1,20 @@
 ---
-layout: default
+layout: image-lower-third
+image: /16-phase-specific-work.png
 ---
 
-# Different Phases Need Different Context
-
-<div class="grid grid-cols-3 gap-8 mt-12">
-
-<div class="text-center">
-<div class="inline-block w-6 h-6 bg-blue-500 rounded text-white text-xs flex items-center justify-center text-6xl text-blue-500 mx-auto mb-4">📋</div>
-<div class="text-lg font-bold">Project Start</div>
-<div class="text-sm mt-2">Requirements, architecture, similar projects</div>
-</div>
-
-<div class="text-center">
-<div class="inline-block w-6 h-6 bg-blue-500 rounded text-white text-xs flex items-center justify-center text-6xl text-green-500 mx-auto mb-4">🔧</div>
-<div class="text-lg font-bold">Implementation</div>
-<div class="text-sm mt-2">Relevant code, patterns, APIs</div>
-</div>
-
-<div class="text-center">
-<div class="inline-block w-6 h-6 bg-red-500 rounded text-white text-xs flex items-center justify-center text-6xl text-red-500 mx-auto mb-4">🐛</div>
-<div class="text-lg font-bold">Debugging</div>
-<div class="text-sm mt-2">Error logs, related code, recent changes</div>
-</div>
-
-</div>
+# Phase-Specific Context
 
 <!--
-Here's the breakthrough insight that changed everything for me: relevant context is heavily dependent on the current development phase.
+📋 **Requirements Phase:** User stories, business context, constraints
 
-When you're starting a project, you need requirements, architecture documentation, and examples of similar projects. Detailed code implementations are irrelevant and just add noise.
+🔧 **Development Phase:** Code files, architecture, patterns  
 
-When you're implementing, you need the relevant code files, established patterns, and API documentation. High-level requirements documents become noise.
+🐛 **Debugging Phase:** Error logs, stack traces, recent changes
 
-When you're debugging, you need error logs, the specific code involved, and recent changes. Everything else is distraction.
+Context Engineering isn't one-size-fits-all. Different phases of development require different types of context.
 
-This phase-awareness is what makes Context Engineering so powerful - it's not just about having information, it's about having the RIGHT information for what you're trying to accomplish right now.
+During requirements gathering, you need user stories, business context, and constraints. During development, you need relevant code files, architecture decisions, and established patterns. During debugging, you need error logs, stack traces, and information about recent changes.
+
+The art is knowing what context matters most for each phase and providing just enough - not too little, not too much.
 -->

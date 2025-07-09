@@ -1,8 +1,12 @@
 ---
-layout: default
+layout: image-lower-third
+image: /07-mature-collaboration.png
 ---
 
 # LLMs have matured
+
+<!--
+
 *Just like children, they're ready for more independence*
 
 **Child → Adult:** 👶 → 👤
@@ -14,7 +18,8 @@ layout: default
 
 💡
 
-<!--
+**Speaker Notes:**
+
 Here's what I don't tell my daughter about this programming-as-parenting parallel - she's not quite ready for full independence with complex logical tasks yet. But LLMs? They've reached that level of maturity.
 
 Just like more mature children can handle tasks more independently when given the right context and boundaries, these models are now ready for more sophisticated context handling rather than detailed step-by-step instructions.

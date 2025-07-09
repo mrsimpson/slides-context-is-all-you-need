@@ -20,6 +20,14 @@ fonts:
   mono: 'Fira Code'
 ---
 
+<style>
+  .quote p {
+    font-size: 2rem;
+    line-height: 3rem;
+    font-style: italic;
+  }
+</style>
+
 # Context is All You Need
 *Why Context Engineering is the Key Skill for AI-Era Developers*
 

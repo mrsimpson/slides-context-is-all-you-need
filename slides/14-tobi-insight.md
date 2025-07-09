@@ -2,14 +2,10 @@
 layout: quote
 ---
 
-<div class="text-center">
-<div class="inline-block w-6 h-6 bg-blue-500 rounded text-white text-xs flex items-center justify-center text-4xl text-blue-500 mb-4">💬</div>
-</div>
-
-*"I really like the term 'context engineering' over prompt engineering. It describes the core skill better: the art of providing all the context for the task to be plausibly solvable by the LLM."*
+"I really like the term 'context engineering' over prompt engineering. It describes the core skill better: the art of providing all the context for the task to be plausibly solvable by the LLM."
 
 <div class="text-right mt-8">
-**— Tobi Lütke, CEO Shopify**
+— Tobi Lütke, CEO Shopify
 </div>
 
 <!--

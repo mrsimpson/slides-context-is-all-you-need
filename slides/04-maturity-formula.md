@@ -3,15 +3,14 @@ layout: image-lower-third
 image: /04-maturity-equation.png
 ---
 
-<style scoped>h1 {display:none}</style>
-
 # The Maturity Formula
+
+<!--
 
 **Technical Skills** + **Experience** = **Maturity**
 
 **Maturity** + **Available Knowledge** = **Good Guessing**
 
-<!-- 
 **Speaker Notes:**
 
 This visual equation laid out on the desk represents something fundamental about how intelligence develops - whether human or artificial.

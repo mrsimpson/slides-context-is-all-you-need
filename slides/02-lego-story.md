@@ -3,15 +3,14 @@ layout: image-lower-third
 image: /02-lego-transformation.png
 ---
 
-<style scoped>h1 {display:none}</style>
-
 # The Lego Story
+
+<!--
 
 *"Programming used to be like professional Lego building - you place every piece yourself"*
 
 *"Now I explain to the computer in German what I want to build, and it builds it like a Lego robot"*
 
-<!--
 **Speaker Notes:**
 
 I used to tell my daughter that programming is like professional Lego building - only the cleanup is faster. You carefully place each piece, following your mental blueprint, building something complex from simple components.
