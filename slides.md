@@ -2,10 +2,11 @@
 theme: default
 background: /01-disco-bowl-context.png
 title: Context is All You Need
+author: Oliver Jägle, DB Systel
 info: |
   ## Context is All You Need
   Why Context Engineering is the Key Skill for AI-Era Developers
-  
+
   A presentation about the evolution of Software Engineering Skills
 class: text-center
 drawings:
@@ -17,19 +18,8 @@ canvasWidth: 980
 fonts:
   sans: Inter
   serif: Inter
-  mono: 'Fira Code'
+  mono: "Fira Code"
 ---
-
-<style>
-  .quote p {
-    font-size: 2rem;
-    line-height: 3rem;
-    font-style: italic;
-  }
-</style>
-
-# Context is All You Need
-*Why Context Engineering is the Key Skill for AI-Era Developers*
 
 ---
 src: ./slides/01-title.md
@@ -129,4 +119,8 @@ src: ./slides/24-final-thought.md
 
 ---
 src: ./slides/25-qa.md
+---
+
+---
+src: ./slides/26-appendix.md
 ---
