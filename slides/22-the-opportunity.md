@@ -1,30 +1,50 @@
 ---
-layout: default
+layout: four-tiles
 ---
 
-# Those Who Master Context Engineering Will Thrive
+<template v-slot:title>
+Master Context Engineering and benefit
+</template>
 
-<div class="space-y-4 mt-6">
-<div class="flex items-center">
-<uim-rocket class="text-2xl text-blue-500 mr-3"/>
-<div>More effective AI collaboration</div>
-</div>
+<template v-slot:subtitle>
+The opportunity is enormous
+</template>
 
-<div class="flex items-center">
-<div class="inline-block w-6 h-6 bg-red-500 rounded text-white text-xs flex items-center justify-center text-2xl text-green-500 mr-3">🎯</div>
-<div>Better project outcomes</div>
-</div>
+<template v-slot:icon1>
+<uim-rocket class="text-6xl text-blue-400"/>
+</template>
 
-<div class="flex items-center">
-<div class="inline-block w-6 h-6 bg-green-700 rounded text-white text-xs flex items-center justify-center text-2xl text-purple-500 mr-3">🧠</div>
-<div>Reduced cognitive load</div>
-</div>
+<template v-slot:tile1>
+<h3>More effective AI collaboration</h3>
+True partnership with mature AI systems
+</template>
 
-<div class="flex items-center">
-<div class="inline-block w-6 h-6 bg-orange-500 rounded text-white text-xs flex items-center justify-center text-2xl text-orange-500 mr-3">🏆</div>
-<div>Competitive differentiation</div>
-</div>
-</div>
+<template v-slot:icon2>
+<div class="text-6xl text-green-400">🎯</div>
+</template>
+
+<template v-slot:tile2>
+<h3>Better project outcomes</h3>
+Higher quality results with less effort
+</template>
+
+<template v-slot:icon3>
+<div class="text-6xl text-purple-400">🧠</div>
+</template>
+
+<template v-slot:tile3>
+<h3>Reduced cognitive load</h3>
+Focus on high-value creative work
+</template>
+
+<template v-slot:icon4>
+<div class="text-6xl text-orange-400">🏆</div>
+</template>
+
+<template v-slot:tile4>
+<h3>Competitive differentiation</h3>
+Significant advantage over traditional approaches
+</template>
 
 <!--
 The opportunity for those who master Context Engineering is enormous. You'll collaborate more effectively with AI systems, achieve better project outcomes, reduce your own cognitive load, and create significant competitive differentiation.

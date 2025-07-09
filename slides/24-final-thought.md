@@ -7,14 +7,8 @@ image: /24-moment-of-clarity.png
 
 *"The future belongs not to those who prompt best, but to those who provide what LLMs need to work effectively"*
 
-**The tools are ready. The LLMs are mature. Are you ready to engineer the context?**
-
 <!--
-**Speaker Notes:**
-
-This image captures that moment of clarity - when everything clicks into place. That's exactly what happens when we shift from traditional prompt engineering to Context Engineering.
-
-Look at that expression of understanding, illuminated by the warm glow of insight. This is what happens when we stop trying to control every step and start trusting mature systems with the right context.
+**The tools are ready. The LLMs are mature. Are you ready to engineer the context?**
 
 I'll leave you with this thought: The future belongs not to those who craft the cleverest prompts, but to those who understand how to provide what LLMs need to work effectively.
 

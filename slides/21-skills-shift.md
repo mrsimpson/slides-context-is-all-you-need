@@ -1,45 +1,50 @@
 ---
-layout: default
+layout: four-tiles
 ---
 
-# Engineers Must Evolve to Remain Relevant 
-New Core Skills:
+<template v-slot:title>
+Engineers Must Evolve to Remain Relevant
+</template>
 
-<div class="grid grid-cols-2 gap-6 mt-8">
+<template v-slot:subtitle>
+New Core Skills
+</template>
 
-<div class="flex items-start">
-<div class="inline-block w-6 h-6 bg-purple-500 rounded text-white text-xs flex items-center justify-center text-2xl text-blue-500 mr-3 mt-1">🗺️</div>
-<div>
-<div class="font-bold">Information architecture for AI systems</div>
-<div class="text-sm text-gray-600">Structuring data for intelligent consumption</div>
-</div>
-</div>
+<template v-slot:icon1>
+<div class="text-6xl text-blue-400">🗺️</div>
+</template>
 
-<div class="flex items-start">
-<uim-clock class="text-2xl text-green-500 mr-3 mt-1"/>
-<div>
-<div class="font-bold">Phase-aware context design</div>
-<div class="text-sm text-gray-600">Right information at the right time</div>
-</div>
-</div>
+<template v-slot:tile1>
+<h3>Information architecture for AI systems</h3>
+Structuring data for intelligent consumption
+</template>
 
-<div class="flex items-start">
-<div class="inline-block w-6 h-6 bg-blue-500 rounded text-white text-xs flex items-center justify-center text-2xl text-purple-500 mr-3 mt-1">🔧</div>
-<div>
-<div class="font-bold">Intelligent tool orchestration</div>
-<div class="text-sm text-gray-600">Enabling flexible AI collaboration</div>
-</div>
-</div>
+<template v-slot:icon2>
+<uim-clock class="text-6xl text-green-400"/>
+</template>
 
-<div class="flex items-start">
-<uim-check-circle class="text-2xl text-orange-500 mr-3 mt-1"/>
-<div>
-<div class="font-bold">Context quality assessment</div>
-<div class="text-sm text-gray-600">Measuring and improving context effectiveness</div>
-</div>
-</div>
+<template v-slot:tile2>
+<h3>Phase-aware context design</h3>
+Right information at the right time
+</template>
 
-</div>
+<template v-slot:icon3>
+<div class="text-6xl text-purple-400">🔧</div>
+</template>
+
+<template v-slot:tile3>
+<h3>Intelligent tool orchestration</h3>
+Enabling flexible AI collaboration
+</template>
+
+<template v-slot:icon4>
+<uim-check-circle class="text-6xl text-orange-400"/>
+</template>
+
+<template v-slot:tile4>
+<h3>Context quality assessment</h3>
+Measuring and improving context effectiveness
+</template>
 
 <!--
 The message is clear: engineers must develop these new skills to remain relevant in the AI era. This isn't about replacing coding skills - it's about adding a new dimension to our expertise.
