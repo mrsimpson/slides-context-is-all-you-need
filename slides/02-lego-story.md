@@ -3,7 +3,7 @@ layout: image-lower-third
 image: /02-lego-transformation.png
 ---
 
-# The Lego Story
+# Software Engineering is about Building
 
 <!--
 

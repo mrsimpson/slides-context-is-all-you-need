@@ -5,9 +5,8 @@ image: /05-maturation-process.png
 
 # What makes something "mature"?
 
-
 <!--
-*We don't always know when, but we know where it comes from...*
+*We don't always know when something is **"mature"**, but we know where it comes from...*
 
 This image shows three parallel timelines of maturation, and it's fascinating how similar the patterns are.
 

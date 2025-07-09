@@ -3,7 +3,7 @@ layout: image-lower-third
 image: /08-evolution-timeline.png
 ---
 
-# Maturity matters
+# Adequate context by Maturity Level
 
 <!--
 
