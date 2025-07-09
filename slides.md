@@ -1,12 +1,12 @@
 ---
 theme: default
-background: https://cover.sli.dev
+background: /01-disco-bowl-context.png
 title: Context is All You Need
 info: |
   ## Context is All You Need
   Why Context Engineering is the Key Skill for AI-Era Developers
   
-  A presentation about the evolution from Prompt Engineering to Context Engineering
+  A presentation about the evolution of Software Engineering Skills
 class: text-center
 drawings:
   persist: false
@@ -22,12 +22,6 @@ fonts:
 
 # Context is All You Need
 *Why Context Engineering is the Key Skill for AI-Era Developers*
-
-<div class="pt-12">
-  <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    Press Space for next page <uim-arrow-circle-right class="inline"/>
-  </span>
-</div>
 
 ---
 src: ./slides/01-title.md

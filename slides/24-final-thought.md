@@ -1,22 +1,28 @@
 ---
-layout: quote
-class: text-center
+layout: image-lower-third
+image: ./images/24-moment-of-clarity.png
 ---
 
-<div class="text-center">
-<div class="inline-block w-6 h-6 bg-yellow-500 rounded text-white text-xs flex items-center justify-center text-6xl text-yellow-500 mb-8">💡</div>
-</div>
+# Context is All You Need
 
 *"The future belongs not to those who prompt best, but to those who provide what LLMs need to work effectively"*
 
-<div class="text-4xl font-bold mt-12 text-blue-600">
-Context is all you need.
-</div>
+**The tools are ready. The LLMs are mature. Are you ready to engineer the context?**
 
 <!--
+**Speaker Notes:**
+
+This image captures that moment of clarity - when everything clicks into place. That's exactly what happens when we shift from traditional prompt engineering to Context Engineering.
+
+Look at that expression of understanding, illuminated by the warm glow of insight. This is what happens when we stop trying to control every step and start trusting mature systems with the right context.
+
 I'll leave you with this thought: The future belongs not to those who craft the cleverest prompts, but to those who understand how to provide what LLMs need to work effectively.
 
 Just like "Attention is all you need" unlocked the potential of Transformers, "Context is all you need" unlocks the potential of mature AI collaboration.
+
+Context is all you need - but only when you're working with mature intelligence. Early LLMs needed detailed instructions. Current LLMs need thoughtful context. Future LLMs will need even more sophisticated context engineering.
+
+The developers who master this skill - who understand how to provide the right information at the right time, who can engineer context rather than engineer prompts - they're the ones who will thrive in the AI-augmented future.
 
 The tools are ready. The LLMs are mature. The question is: are you ready to engineer the context that will define the next era of software development?
 

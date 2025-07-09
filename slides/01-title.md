@@ -1,6 +1,6 @@
 ---
 layout: cover
-background: https://cover.sli.dev
+background: /01-disco-bowl-context.png
 class: text-center
 ---
 
@@ -9,7 +9,7 @@ class: text-center
 
 <div class="absolute bottom-10">
   <span class="font-700">
-    Your Name Here
+    Oliver Jägle, DB Systel
   </span>
 </div>
 
