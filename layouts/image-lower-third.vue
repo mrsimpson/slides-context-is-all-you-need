@@ -3,7 +3,7 @@
     <!-- Full screen background image -->
     <div 
       class="absolute inset-0 bg-cover bg-center bg-no-repeat"
-      :style="{ backgroundImage: `url(${image})` }"
+      :style="{ backgroundImage: `url(${resolveAssetUrl(image)})` }"
     />
     
     <!-- Lower third overlay -->
@@ -18,12 +18,19 @@
 </template>
 
 <script setup>
-defineProps({
+const props = defineProps({
   image: {
     type: String,
     required: true
   }
 })
+
+const resolveAssetUrl = (url) => {
+  if (url.startsWith('/')){
+    return import.meta.env.BASE_URL + url.slice(1)
+  }
+  return url
+}
 </script>
 
 <style scoped>
