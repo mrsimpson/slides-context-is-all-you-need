@@ -2,13 +2,8 @@
 layout: default
 ---
 
-# Engineers Must Evolve to Remain Relevant
-
-<div class="text-center mb-8">
-<div class="inline-block w-6 h-6 bg-purple-500 rounded text-white text-xs flex items-center justify-center text-6xl text-blue-500">🎓</div>
-</div>
-
-## New Core Skills:
+# Engineers Must Evolve to Remain Relevant 
+New Core Skills:
 
 <div class="grid grid-cols-2 gap-6 mt-8">
 

@@ -1,12 +1,8 @@
 ---
-layout: two-cols
+layout: default
 ---
 
 # Those Who Master Context Engineering Will Thrive
-
-<div class="mt-8">
-
-## The Advantage:
 
 <div class="space-y-4 mt-6">
 <div class="flex items-center">
@@ -28,15 +24,6 @@ layout: two-cols
 <div class="inline-block w-6 h-6 bg-orange-500 rounded text-white text-xs flex items-center justify-center text-2xl text-orange-500 mr-3">🏆</div>
 <div>Competitive differentiation</div>
 </div>
-</div>
-
-</div>
-
-::right::
-
-<div class="text-center">
-<div class="inline-block w-6 h-6 bg-green-500 rounded text-white text-xs flex items-center justify-center text-8xl text-green-500 mx-auto mb-4">📈</div>
-<div class="text-lg font-bold">Exponential Advantage</div>
 </div>
 
 <!--
