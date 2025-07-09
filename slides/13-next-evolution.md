@@ -6,7 +6,7 @@ layout: statement
 *The natural progression for mature LLMs*
 
 <div class="text-center mt-16">
-<div class="i-uim-rocket text-8xl text-blue-500 mx-auto"></div>
+<uim-rocket class="text-8xl text-blue-500 mx-auto"/>
 </div>
 
 <!--

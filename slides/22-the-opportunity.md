@@ -10,22 +10,22 @@ layout: two-cols
 
 <div class="space-y-4 mt-6">
 <div class="flex items-center">
-<div class="i-uim-rocket text-2xl text-blue-500 mr-3"></div>
+<uim-rocket class="text-2xl text-blue-500 mr-3"/>
 <div>More effective AI collaboration</div>
 </div>
 
 <div class="flex items-center">
-<div class="i-uim-target text-2xl text-green-500 mr-3"></div>
+<div class="inline-block w-6 h-6 bg-red-500 rounded text-white text-xs flex items-center justify-center text-2xl text-green-500 mr-3">🎯</div>
 <div>Better project outcomes</div>
 </div>
 
 <div class="flex items-center">
-<div class="i-uim-brain text-2xl text-purple-500 mr-3"></div>
+<div class="inline-block w-6 h-6 bg-green-700 rounded text-white text-xs flex items-center justify-center text-2xl text-purple-500 mr-3">🧠</div>
 <div>Reduced cognitive load</div>
 </div>
 
 <div class="flex items-center">
-<div class="i-uim-trophy text-2xl text-orange-500 mr-3"></div>
+<div class="inline-block w-6 h-6 bg-orange-500 rounded text-white text-xs flex items-center justify-center text-2xl text-orange-500 mr-3">🏆</div>
 <div>Competitive differentiation</div>
 </div>
 </div>
@@ -35,7 +35,7 @@ layout: two-cols
 ::right::
 
 <div class="text-center">
-<div class="i-uim-chart-growth text-8xl text-green-500 mx-auto mb-4"></div>
+<div class="inline-block w-6 h-6 bg-green-500 rounded text-white text-xs flex items-center justify-center text-8xl text-green-500 mx-auto mb-4">📈</div>
 <div class="text-lg font-bold">Exponential Advantage</div>
 </div>
 

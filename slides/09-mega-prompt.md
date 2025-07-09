@@ -1,23 +1,17 @@
 ---
-layout: two-cols
+layout: default
 ---
 
 # The Mega-Prompt Approach
 *"Put everything in the system prompt"*
 
-<div class="mt-8">
-<div class="i-uim-cube text-2xl text-blue-500 inline mr-2"></div> **Lego:** Comprehensive instruction manual for every build
+**Lego:** Comprehensive instruction manual for every build
 
-<div class="mt-4">
-<div class="i-uim-users-alt text-2xl text-green-500 inline mr-2"></div> **Parenting:** Detailed rules for every situation
-</div>
-</div>
+**Parenting:** Detailed rules for every situation
 
-::right::
-
-<div class="text-center">
-<div class="i-uim-file-alt text-8xl text-orange-500 mx-auto mb-4"></div>
-<div class="text-sm text-gray-600">Everything in one massive prompt</div>
+<div class="text-center mt-8">
+📄
+<div class="text-sm text-gray-600 mt-2">Everything in one massive prompt</div>
 </div>
 
 <!--

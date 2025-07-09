@@ -6,11 +6,11 @@ layout: statement
 *Each served its purpose at the right time*
 
 <div class="text-center mt-16">
-<div class="i-uim-history text-8xl text-blue-500 mx-auto"></div>
+<uim-history class="text-8xl text-blue-500 mx-auto"/>
 </div>
 
 <div class="text-center mt-8 text-xl">
-<div class="i-uim-question inline text-orange-500 mr-2"></div> How do you supply context to your LLM?
+<div class="inline-block w-6 h-6 bg-orange-500 rounded text-white text-xs flex items-center justify-center inline text-orange-500 mr-2">❓</div> How do you supply context to your LLM?
 </div>
 
 <!--

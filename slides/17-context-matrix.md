@@ -8,10 +8,10 @@ layout: default
 
 | Information Type | Project Start | Implementation | Debugging |
 |------------------|---------------|----------------|-----------|
-| Requirements     | <div class="i-uim-check text-green-500 inline"></div> Critical   | <div class="i-uim-times text-red-500 inline"></div> Noise      | <div class="i-uim-times text-red-500 inline"></div> Noise  |
-| Code Files       | <div class="i-uim-times text-red-500 inline"></div> Noise      | <div class="i-uim-check text-green-500 inline"></div> Critical   | <div class="i-uim-check text-green-500 inline"></div> Critical |
-| Error Logs       | <div class="i-uim-times text-red-500 inline"></div> Noise      | <div class="i-uim-times text-red-500 inline"></div> Noise      | <div class="i-uim-check text-green-500 inline"></div> Critical |
-| Architecture     | <div class="i-uim-check text-green-500 inline"></div> Critical   | <div class="i-uim-exclamation-triangle text-yellow-500 inline"></div> Sometimes  | <div class="i-uim-times text-red-500 inline"></div> Noise  |
+| Requirements     | <uim-check class="text-green-500 inline"/> Critical   | <uim-times-circle class="text-red-500 inline"/> Noise      | <uim-times-circle class="text-red-500 inline"/> Noise  |
+| Code Files       | <uim-times-circle class="text-red-500 inline"/> Noise      | <uim-check class="text-green-500 inline"/> Critical   | <uim-check class="text-green-500 inline"/> Critical |
+| Error Logs       | <uim-times-circle class="text-red-500 inline"/> Noise      | <uim-times-circle class="text-red-500 inline"/> Noise      | <uim-check class="text-green-500 inline"/> Critical |
+| Architecture     | <uim-check class="text-green-500 inline"/> Critical   | <uim-exclamation-triangle class="text-yellow-500 inline"/> Sometimes  | <uim-times-circle class="text-red-500 inline"/> Noise  |
 
 </div>
 

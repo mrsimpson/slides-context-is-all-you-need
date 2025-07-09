@@ -6,9 +6,9 @@ layout: two-cols
 *Not rigid agents, but intelligent collaborators*
 
 <div class="mt-8">
-<div class="i-uim-sitemap text-4xl text-gray-400 inline mr-4"></div>
-<div class="i-uim-arrow-right text-2xl text-gray-400 inline mr-4"></div>
-<div class="i-uim-brain text-4xl text-blue-500 inline"></div>
+<div class="inline-block w-6 h-6 bg-purple-500 rounded text-white text-xs flex items-center justify-center text-4xl text-gray-400 inline mr-4">🗺️</div>
+<uim-arrow-circle-right class="text-2xl text-gray-400 inline mr-4"/>
+<div class="inline-block w-6 h-6 bg-green-700 rounded text-white text-xs flex items-center justify-center text-4xl text-blue-500 inline">🧠</div>
 </div>
 
 <div class="mt-4 text-lg">
@@ -18,7 +18,7 @@ From rigid pipelines to intelligent choice
 ::right::
 
 <div class="text-center">
-<div class="i-uim-rocket text-8xl text-purple-500 mx-auto mb-4"></div>
+<uim-rocket class="text-8xl text-purple-500 mx-auto mb-4"/>
 <div class="text-lg font-bold">The Future:</div>
 <div class="text-base">LLMs choose their own tools and context</div>
 </div>

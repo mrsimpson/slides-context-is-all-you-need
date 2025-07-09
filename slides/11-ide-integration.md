@@ -6,17 +6,17 @@ layout: two-cols
 *"Developer chooses the context"*
 
 <div class="mt-8">
-<div class="i-uim-cube text-2xl text-blue-500 inline mr-2"></div> **Lego:** Expert builder selecting their own pieces
+<uim-cube class="text-2xl text-blue-500 inline mr-2"/> **Lego:** Expert builder selecting their own pieces
 
 <div class="mt-4">
-<div class="i-uim-users-alt text-2xl text-green-500 inline mr-2"></div> **Parenting:** Collaborative decision-making with teenagers
+<div class="inline-block w-6 h-6 bg-green-500 rounded text-white text-xs flex items-center justify-center text-2xl text-green-500 inline mr-2">👥</div> **Parenting:** Collaborative decision-making with teenagers
 </div>
 </div>
 
 ::right::
 
 <div class="text-center">
-<div class="i-uim-mouse text-8xl text-teal-500 mx-auto mb-4"></div>
+<div class="inline-block w-6 h-6 bg-teal-500 rounded text-white text-xs flex items-center justify-center text-8xl text-teal-500 mx-auto mb-4">🖱️</div>
 <div class="text-sm text-gray-600">Manual context selection</div>
 </div>
 

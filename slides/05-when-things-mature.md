@@ -4,27 +4,26 @@ layout: default
 
 # What makes something "mature"?
 
-<div class="grid grid-cols-3 gap-8 mt-12">
+<div class="grid grid-cols-3 gap-8 mt-12 text-center">
 
-<div class="text-center">
-<div class="i-uim-kid text-6xl text-blue-500 mx-auto mb-4"></div>
-<div class="i-uim-arrow-right text-2xl text-gray-400 mx-auto mb-4"></div>
-<div class="i-uim-user text-6xl text-blue-700 mx-auto mb-4"></div>
-<div class="text-lg">A child?</div>
+<div>
+**A child?**
+
+👶 → 👤
 </div>
 
-<div class="text-center">
-<div class="i-uim-robot text-6xl text-green-500 mx-auto mb-4"></div>
-<div class="i-uim-arrow-right text-2xl text-gray-400 mx-auto mb-4"></div>
-<div class="i-uim-brain text-6xl text-green-700 mx-auto mb-4"></div>
-<div class="text-lg">An LLM?</div>
+<div>
+**An LLM?**
+
+<uim-android class="text-6xl text-green-500 mx-auto mb-4"/>
+↓
+🧠
 </div>
 
-<div class="text-center">
-<div class="i-uim-desktop text-6xl text-purple-500 mx-auto mb-4"></div>
-<div class="i-uim-arrow-right text-2xl text-gray-400 mx-auto mb-4"></div>
-<div class="i-uim-rocket text-6xl text-purple-700 mx-auto mb-4"></div>
-<div class="text-lg">Software?</div>
+<div>
+**Software?**
+
+💻 → <uim-rocket class="text-6xl text-purple-700 mx-auto mb-4"/>
 </div>
 
 </div>

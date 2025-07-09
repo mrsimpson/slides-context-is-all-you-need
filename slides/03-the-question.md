@@ -5,7 +5,7 @@ layout: statement
 # How can LLMs be so good at guessing?
 
 <div class="text-center mt-16">
-<uim-exclamation-circle class="text-8xl text-orange-500 mx-auto"/>
+<uim-exclamation-circle class="text-8xl text-orange-500"/>
 </div>
 
 <!--

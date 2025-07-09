@@ -1,23 +1,17 @@
 ---
-layout: two-cols
+layout: default
 ---
 
-# Context Engineering:
+# Context Engineering
 *Providing the right information at the right time*
 
-<div class="mt-8">
-<div class="i-uim-cube text-2xl text-blue-500 inline mr-2"></div> **Lego:** Right manual, pieces, and examples for THIS build
+**Lego:** Right manual, pieces, and examples for THIS build
 
-<div class="mt-4">
-<div class="i-uim-users-alt text-2xl text-green-500 inline mr-2"></div> **Parenting:** Appropriate boundaries and context for THIS situation
-</div>
-</div>
+**Parenting:** Appropriate boundaries and context for THIS situation
 
-::right::
-
-<div class="text-center">
-<div class="i-uim-target text-8xl text-orange-500 mx-auto mb-4"></div>
-<div class="text-sm text-gray-600">Right information, right time</div>
+<div class="text-center mt-8">
+🎯
+<div class="text-sm text-gray-600 mt-2">Right information, right time</div>
 </div>
 
 <!--

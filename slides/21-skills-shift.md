@@ -5,7 +5,7 @@ layout: default
 # Engineers Must Evolve to Remain Relevant
 
 <div class="text-center mb-8">
-<div class="i-uim-graduation-cap text-6xl text-blue-500"></div>
+<div class="inline-block w-6 h-6 bg-purple-500 rounded text-white text-xs flex items-center justify-center text-6xl text-blue-500">🎓</div>
 </div>
 
 ## New Core Skills:
@@ -13,7 +13,7 @@ layout: default
 <div class="grid grid-cols-2 gap-6 mt-8">
 
 <div class="flex items-start">
-<div class="i-uim-sitemap text-2xl text-blue-500 mr-3 mt-1"></div>
+<div class="inline-block w-6 h-6 bg-purple-500 rounded text-white text-xs flex items-center justify-center text-2xl text-blue-500 mr-3 mt-1">🗺️</div>
 <div>
 <div class="font-bold">Information architecture for AI systems</div>
 <div class="text-sm text-gray-600">Structuring data for intelligent consumption</div>
@@ -21,7 +21,7 @@ layout: default
 </div>
 
 <div class="flex items-start">
-<div class="i-uim-clock text-2xl text-green-500 mr-3 mt-1"></div>
+<uim-clock class="text-2xl text-green-500 mr-3 mt-1"/>
 <div>
 <div class="font-bold">Phase-aware context design</div>
 <div class="text-sm text-gray-600">Right information at the right time</div>
@@ -29,7 +29,7 @@ layout: default
 </div>
 
 <div class="flex items-start">
-<div class="i-uim-wrench text-2xl text-purple-500 mr-3 mt-1"></div>
+<div class="inline-block w-6 h-6 bg-blue-500 rounded text-white text-xs flex items-center justify-center text-2xl text-purple-500 mr-3 mt-1">🔧</div>
 <div>
 <div class="font-bold">Intelligent tool orchestration</div>
 <div class="text-sm text-gray-600">Enabling flexible AI collaboration</div>
@@ -37,7 +37,7 @@ layout: default
 </div>
 
 <div class="flex items-start">
-<div class="i-uim-check-circle text-2xl text-orange-500 mr-3 mt-1"></div>
+<uim-check-circle class="text-2xl text-orange-500 mr-3 mt-1"/>
 <div>
 <div class="font-bold">Context quality assessment</div>
 <div class="text-sm text-gray-600">Measuring and improving context effectiveness</div>

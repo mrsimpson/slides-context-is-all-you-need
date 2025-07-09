@@ -7,15 +7,15 @@ layout: center
 <div class="text-center space-y-8">
 
 <div class="text-xl">
-<div class="i-uim-baby inline text-blue-400 mr-2"></div> Early LLMs → <div class="i-uim-file-text inline text-orange-500 mr-2"></div> Detailed Instructions
+<div class="inline-block w-6 h-6 bg-blue-400 rounded text-white text-xs flex items-center justify-center inline text-blue-400 mr-2">👶</div> Early LLMs → <div class="inline-block w-6 h-6 bg-orange-500 rounded text-white text-xs flex items-center justify-center inline text-orange-500 mr-2">📄</div> Detailed Instructions
 </div>
 
 <div class="text-xl">
-<div class="i-uim-child inline text-green-400 mr-2"></div> Capable LLMs → <div class="i-uim-sitemap inline text-purple-500 mr-2"></div> Structured Workflows
+<div class="inline-block w-6 h-6 bg-green-400 rounded text-white text-xs flex items-center justify-center inline text-green-400 mr-2">🧒</div> Capable LLMs → <div class="inline-block w-6 h-6 bg-purple-500 rounded text-white text-xs flex items-center justify-center inline text-purple-500 mr-2">🗺️</div> Structured Workflows
 </div>
 
 <div class="text-2xl font-bold">
-<div class="i-uim-user inline text-blue-600 mr-2"></div> Mature LLMs → <div class="i-uim-database inline text-red-500 mr-2"></div> **Context Collaboration**
+<div class="inline-block w-6 h-6 bg-blue-700 rounded text-white text-xs flex items-center justify-center inline text-blue-600 mr-2">👤</div> Mature LLMs → <div class="inline-block w-6 h-6 bg-orange-500 rounded text-white text-xs flex items-center justify-center inline text-red-500 mr-2">💾</div> **Context Collaboration**
 </div>
 
 </div>

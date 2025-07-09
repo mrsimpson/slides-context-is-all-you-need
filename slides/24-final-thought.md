@@ -4,7 +4,7 @@ class: text-center
 ---
 
 <div class="text-center">
-<div class="i-uim-lightbulb text-6xl text-yellow-500 mb-8"></div>
+<div class="inline-block w-6 h-6 bg-yellow-500 rounded text-white text-xs flex items-center justify-center text-6xl text-yellow-500 mb-8">💡</div>
 </div>
 
 *"The future belongs not to those who prompt best, but to those who provide what LLMs need to work effectively"*

@@ -12,7 +12,7 @@ layout: default
 <div class="text-lg font-bold">Assess</div>
 </div>
 <div class="text-sm text-gray-600 ml-11">Your current context supply methods</div>
-<div class="i-uim-analytics text-2xl text-blue-500 ml-11 mt-2"></div>
+<uim-analytics class="text-2xl text-blue-500 ml-11 mt-2"/>
 </div>
 
 <div>
@@ -21,7 +21,7 @@ layout: default
 <div class="text-lg font-bold">Experiment</div>
 </div>
 <div class="text-sm text-gray-600 ml-11">With phase-aware context</div>
-<div class="i-uim-flask text-2xl text-green-500 ml-11 mt-2"></div>
+<div class="inline-block w-6 h-6 bg-green-500 rounded text-white text-xs flex items-center justify-center text-2xl text-green-500 ml-11 mt-2">🧪</div>
 </div>
 
 <div>
@@ -30,7 +30,7 @@ layout: default
 <div class="text-lg font-bold">Build</div>
 </div>
 <div class="text-sm text-gray-600 ml-11">Tools that support context engineering</div>
-<div class="i-uim-wrench text-2xl text-purple-500 ml-11 mt-2"></div>
+<div class="inline-block w-6 h-6 bg-blue-500 rounded text-white text-xs flex items-center justify-center text-2xl text-purple-500 ml-11 mt-2">🔧</div>
 </div>
 
 <div>
@@ -39,7 +39,7 @@ layout: default
 <div class="text-lg font-bold">Share</div>
 </div>
 <div class="text-sm text-gray-600 ml-11">Your learnings with the community</div>
-<div class="i-uim-share text-2xl text-orange-500 ml-11 mt-2"></div>
+<div class="inline-block w-6 h-6 bg-orange-500 rounded text-white text-xs flex items-center justify-center text-2xl text-orange-500 ml-11 mt-2">📤</div>
 </div>
 
 </div>
