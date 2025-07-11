@@ -5,6 +5,7 @@
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
+    "dev:compact": "slidev --open slides-strategical.md",
     "export": "slidev export"
   },
   "dependencies": {

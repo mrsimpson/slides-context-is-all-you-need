@@ -78,7 +78,11 @@
 }
 
 .header-section h1 {
-  color: white;
+  @apply text-gray-900 dark:text-white;
+}
+
+.header-section .text-gray-200 {
+  @apply text-gray-600 dark:text-gray-200;
 }
 
 .tiles-section {
@@ -93,10 +97,10 @@
 }
 
 .tile {
-  background: rgba(255, 255, 255, 0.1);
+  @apply bg-gray-100 dark:bg-white/10;
   border-radius: 8px;
   backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  @apply border border-gray-300 dark:border-white/20;
   transition: transform 0.2s ease, background 0.2s ease;
   display: flex;
   flex-direction: column;
@@ -106,7 +110,7 @@
 
 .tile:hover {
   transform: translateY(-2px);
-  background: rgba(255, 255, 255, 0.15);
+  @apply bg-gray-200 dark:bg-white/15;
 }
 
 .icon-container {
@@ -130,11 +134,11 @@
   font-size: 0.9rem;
   font-weight: 600;
   margin-bottom: 0.3rem;
-  color: white;
+  @apply text-gray-900 dark:text-white;
 }
 
 .tile-content p {
-  color: rgba(255, 255, 255, 0.9);
+  @apply text-gray-700 dark:text-white/90;
   font-size: 0.75rem;
 }
 </style>

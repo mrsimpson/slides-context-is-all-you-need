@@ -5,7 +5,7 @@ image: /24-moment-of-clarity.png
 
 # Context is All You Need
 
-*"The future belongs not to those who prompt best, but to those who provide what LLMs need to work effectively"*
+*The future belongs not to those who code best not to those who prompt best <br/>– but to those who provide what LLMs need to work effectively*
 
 <!--
 **The tools are ready. The LLMs are mature. Are you ready to engineer the context?**
