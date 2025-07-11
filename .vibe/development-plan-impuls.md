@@ -29,6 +29,7 @@ Create a shortened version of the "Context is All You Need" presentation for a s
 - [x] Create strategical version of skills-shift slide
 - [x] Rename files from "manager" to "strategical" terminology
 - [x] Fix four-tiles layout light mode visibility issue
+- [x] Replace emojis with colored UIM icons on slides 21 and 22
 - [ ] Test presentation flow and timing
 - [ ] Adjust speaker notes for strategic audience if needed
 
@@ -39,6 +40,7 @@ Create a shortened version of the "Context is All You Need" presentation for a s
 - [x] Created slides/21-skills-shift-strategical.md for strategic focus
 - [x] Updated all references from "manager" to "strategical"
 - [x] Fixed white-on-white text issue in four-tiles layout for light mode
+- [x] Replaced emojis with UIM icons for consistency
 
 ## Style
 ### Tasks

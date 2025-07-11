@@ -11,7 +11,7 @@ New Core Skills for Engineers
 </template>
 
 <template v-slot:icon1>
-<div class="text-6xl text-blue-400">🗺️</div>
+<uim-web-grid class="text-6xl text-blue-400"/>
 </template>
 
 <template v-slot:tile1>
@@ -29,7 +29,7 @@ Right information at the right time
 </template>
 
 <template v-slot:icon3>
-<div class="text-6xl text-purple-400">🔧</div>
+<uim-process class="text-6xl text-purple-400"/>
 </template>
 
 <template v-slot:tile3>

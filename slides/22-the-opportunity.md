@@ -20,7 +20,7 @@ True partnership with mature AI systems
 </template>
 
 <template v-slot:icon2>
-<div class="text-6xl text-green-400">🎯</div>
+<uim-chart class="text-6xl text-green-400"/>
 </template>
 
 <template v-slot:tile2>
@@ -29,7 +29,7 @@ Higher quality results with less effort
 </template>
 
 <template v-slot:icon3>
-<div class="text-6xl text-purple-400">🧠</div>
+<uim-head-side class="text-6xl text-purple-400"/>
 </template>
 
 <template v-slot:tile3>
@@ -38,7 +38,7 @@ Focus on high-value creative work
 </template>
 
 <template v-slot:icon4>
-<div class="text-6xl text-orange-400">🏆</div>
+<uim-star class="text-6xl text-orange-400"/>
 </template>
 
 <template v-slot:tile4>
