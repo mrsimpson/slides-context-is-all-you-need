@@ -90,11 +90,11 @@ src: ./slides/17-context-matrix.md
 ---
 
 ---
-src: ./slides/18-post-agentistic.md
+src: ./slides/18-it-takes-two-to-tango.md
 ---
 
 ---
-src: ./slides/19-practical-implementation.md
+src: ./slides/19-three-layers.md
 ---
 
 ---
@@ -102,7 +102,7 @@ src: ./slides/20-context-is-engineering.md
 ---
 
 ---
-src: ./slides/21-skills-shift.md
+src: ./slides/21-new-skills-shift.md
 ---
 
 ---
