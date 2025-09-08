@@ -47,19 +47,18 @@ It's your foundation, so make sure it's up-to-date
 </template>
 
 <!--
+
 **Speaker Notes:**
+Main message: Engineers must develop a new skill progression - clear thinking leads to good context which enables effective AI collaboration
 
-This is the skills evolution that developers need to master. It's not about replacing coding skills - it's about adding a new dimension to our expertise.
+- Skills evolution
+- Clear progression
+- Learnable discipline
 
-**Clear Thinking**: The foundation skill. Systematic problem analysis, requirement clarity, organized approach to complex engineering challenges. If you can't think clearly about a problem, no amount of AI sophistication will help you solve it effectively.
+*Transition: But here's the crucial point about Context Engineering.*
 
-**Good Context**: The three-layer framework we just discussed. Rich conversation context, process memory, and long-term documentation. This is the practical implementation of clear thinking - how you structure and provide the information AI needs.
+...
 
-**Good AI Inference**: When you provide clear context through these layers, AI transforms from a chaotic assistant that generates more problems than it solves, into a capable execution partner that can handle implementation work while you focus on engineering decisions.
+This is the skills evolution that developers need to master. It's not about replacing coding skills - it's about adding a new dimension to our expertise. Clear Thinking is the foundation - systematic problem analysis, requirement clarity, organized approach to complex challenges. Good Context is the practical implementation through the three-layer framework we discussed. Good AI Inference happens when you provide clear context - AI transforms from chaotic assistant into capable execution partner. Living Documentation creates the multiplier effect, enabling sustained collaboration across sessions and projects. The progression is crucial: Clear Thinking enables Good Context, which enables Good AI Inference, amplified by Documentation for long-term effectiveness.
 
-**Update Documentation**: The multiplier effect. Good documentation creates long-term memory that enables sustained collaboration across sessions and projects. You build on previous work instead of starting from scratch every time, so you need to make sure it's up-to-date!
-
-The progression is crucial: Clear Thinking enables Good Context, which enables Good AI Inference, amplified by Documentation for long-term effectiveness.
-
-These skills are as learnable and measurable as any other engineering discipline. The question is: will you develop them proactively, or will you be forced to catch up later when your current approach hits its limits?
 -->

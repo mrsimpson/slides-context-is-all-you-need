@@ -14,7 +14,7 @@ Main message: Challenge the audience to think about why LLMs are so effective at
 - Not magic
 - Human-like pattern -> Understanding is matter of maturity
 
-*Transition: The answer follows a pattern we recognize from human development.*
+*Transition: The answer follows a pattern we recognize from human development: It's about maturity.*
 
 ...
 

@@ -31,7 +31,7 @@ layout: default
     </div>
     <div class="layer-content">
       <h3>Long-term Memory</h3>
-      <p>Requirements, architecture, and design documentation</p>
+      <p>Requirements, Documentation, RAG</p>
     </div>
   </div>
 </div>
@@ -97,17 +97,26 @@ layout: default
 </style>
 
 <!--
+
 **Speaker Notes:**
+Main message: Three-layer framework provides practical structure for maintaining and delivering clear context to AI systems
 
-Once you establish clear thinking, you need a practical framework to maintain and provide that clarity. This is the three-layer context engineering approach I developed while building workflows.
+- Three layers
+- Practical framework
+- Clear context
 
-**Layer 1 - Rich Conversation Context**: This is about organizing your thinking systematically. Instead of jumping to solutions, you ask the right questions, clarify requirements, and build understanding methodically. When you maintain clarity in your conversations, your AI can respond clearly too.
+*Transition: This leads us to a fundamental shift in how we think about engineering.*
 
-**Layer 2 - Process Memory**: Phase-aware development plans that help you stay organized across complex projects. Track what phase you're in, what decisions you've made, what's been completed. When you maintain this process memory, your AI agents can understand the current context and contribute appropriately.
+...
 
-**Layer 3 - Long-term Memory**: Requirements, Architecture, and Design documents that preserve your thinking across conversations and sessions. This allows you to build on previous work instead of starting from scratch every time.
+Once you establish clear thinking, you need a practical framework to maintain and provide that clarity. This is the three-layer context engineering approach I developed while building workflows. 
 
-The key insight: these three layers provide the context AI needs to transform from chaotic assistant to capable execution partner. When you provide clear context through these layers, AI can handle the execution work while you focus on engineering decisions and strategic thinking.
+Layer 1 is Rich Conversation Context - organizing your thinking systematically, asking the right questions, clarifying requirements methodically. 
 
-This isn't theory - this is the practical implementation that makes context engineering work in real development scenarios.
+Layer 2 is Process Memory - phase-aware development plans that track what phase you're in, what decisions you've made, what's been completed. 
+
+Layer 3 is Long-term Memory - requirements, architecture, and design documents that preserve your thinking across conversations and sessions. This may as well be captured outside the system, e. g. in knowledge databases connected via RAG. 
+
+These three layers provide the context AI needs to transform from chaotic assistant to capable execution partner.
+
 -->

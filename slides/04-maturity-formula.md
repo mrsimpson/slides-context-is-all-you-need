@@ -22,7 +22,7 @@ $$
 <!--
 
 **Speaker Notes:**
-Main message: Both humans and LLMs follow the same pattern - maturity plus context enables good decision-making
+Main message: Both humans and LLMs mature - maturity plus context enables good decision-making
 
 - Human pattern
 - LLM parallel
