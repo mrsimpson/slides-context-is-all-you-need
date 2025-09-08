@@ -21,17 +21,17 @@ $$
 
 <!--
 
-# The Maturity Formula
+**Speaker Notes:**
+Main message: Both humans and LLMs follow the same pattern - maturity plus context enables good decision-making
 
-$$\sum(\text{Skills}) + \sum(\text{Experience}) = \text{Maturity}$$
+- Human pattern
+- LLM parallel
+- Context enables
 
-$$\text{Maturity} + \sum(\text{Knowledge}) = \text{Good Guessing}$$
+*Transition: But what exactly makes something mature?*
 
-The summation symbols are crucial here - it's not just having skills, experience, or knowledge, but the accumulation and integration of these elements that creates the capability for intelligent decision-making.
+...
 
-Think about how this works with humans first. The sum of technical skills combined with the sum of experiences creates maturity. Then, when you give that mature person access to the sum of available knowledge, they make good decisions - what we might call "good guessing."
+Think about how this works with humans first. The sum of technical skills combined with experiences creates maturity. When you give that mature person access to available knowledge, they make good decisions - what we might call "good guessing." The same pattern applies to LLMs. They've accumulated technical capabilities, integrated experience through training, and reached maturity. Now, when we provide them with the right context, they can make remarkably good decisions. This isn't magic - it's a predictable relationship we can understand and work with.
 
-The same pattern applies to LLMs. They've accumulated technical capabilities, integrated experience through training, and reached a level of maturity. Now, when we provide them with the right sum of available knowledge - the right context - they can make remarkably good decisions.
-
-This isn't magic. It's a predictable mathematical relationship that we can understand and work with.
 -->

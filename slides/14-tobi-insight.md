@@ -17,10 +17,18 @@ layout: quote
 </div>
 
 <!--
-Tobi Lütke, the CEO of Shopify, captured this perfectly. Context Engineering isn't just a buzzword - it's a fundamental shift in perspective.
 
-Prompt Engineering asks: "How should the LLM work?"
-Context Engineering asks: "What information does it need?"
+**Speaker Notes:**
+Main message: Context Engineering represents a fundamental shift from process control to information provision
 
-It's the difference between being a micromanager and being a good team leader. The micromanager explains every step. The good team leader ensures all relevant information is available and lets the team work.
+- Perspective shift
+- Information focus
+- Team leadership
+
+*Transition: Let me define what Context Engineering actually means.*
+
+...
+
+Tobi Lütke, CEO of Shopify, captured this perfectly. Context Engineering isn't just a buzzword - it's a fundamental shift in perspective. Prompt Engineering asks "How should the LLM work?" while Context Engineering asks "What information does it need?" It's the difference between being a micromanager who explains every step and being a good team leader who ensures all relevant information is available and lets the team work.
+
 -->

@@ -6,23 +6,18 @@ image: /23-taking-steps.png
 # Next Steps
 
 <!--
-📊 **Audit your current context practices**
 
-🧪 **Experiment with phase-specific context**
+**Speaker Notes:**
+Main message: Provide concrete, actionable steps for beginning Context Engineering practice
 
-🔧 **Build context engineering tools**
+- Assess methods
+- Experiment phases
+- Build tools
 
-📤 **Share learnings with the community**
+*Transition: Let me leave you with one final thought.*
 
-Here are concrete steps you can take to start developing your context engineering skills:
+...
 
-**Audit your current context practices:** Look at how you currently provide context to AI systems. What works? What doesn't? Where are the gaps?
+So where do you start? First, honestly assess how you currently supply context to AI systems. Are you using mega-prompts? Agent workflows? Manual selection? Each has its place, but recognize the limitations. Second, experiment with phase-aware context. Try providing different information based on what you're trying to accomplish. Notice the difference in AI responses. Third, consider building or adopting tools that support context engineering principles. Finally, share your learnings. Context Engineering is still emerging as a discipline. Your experiments and insights contribute to the collective understanding.
 
-**Experiment with phase-specific context:** Try providing different types of context for different development phases. Measure the results.
-
-**Build context engineering tools:** Create systems and processes that make it easier to discover, filter, and deliver relevant context.
-
-**Share learnings with the community:** Context engineering is still an emerging field. Your experiments and insights can help advance the entire discipline.
-
-The image of someone climbing stairs represents this journey of continuous improvement and skill development.
 -->

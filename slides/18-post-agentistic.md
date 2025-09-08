@@ -6,11 +6,18 @@ image: /18-future-collaboration.png
 # Post-Agentistic AI
 
 <!--
-*Beyond agents to intelligent collaboration*
 
-This represents the future I think we're moving toward - post-agentistic AI. Instead of orchestrating multiple specialized agents, we work with mature AI systems that can intelligently navigate complex contexts.
+**Speaker Notes:**
+Main message: Future involves flexible LLM orchestration rather than rigid agent constraints
 
-The rocket launching represents this leap from the complexity of agent management to the simplicity of context-based collaboration.
+- Flexible orchestration
+- Tool selection
+- Craftsperson approach
 
-It's not about eliminating agents entirely, but about recognizing when mature AI can work more effectively with rich context than with rigid workflows.
+*Transition: But here's the crucial point about Context Engineering.*
+
+...
+
+This leads us to what I call a post-agentistic vision. Instead of rigid agent pipelines that constrain LLM flexibility, we let mature LLMs orchestrate their own tool usage. Think about it: LLMs are getting better at using tools flexibly through standards like the Model Context Protocol. Why force them into rigid agent workflows when they can intelligently choose what they need? It's like the difference between a strict assembly line and a skilled craftsperson who selects the right tools for each task.
+
 -->

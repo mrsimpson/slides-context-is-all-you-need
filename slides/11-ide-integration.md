@@ -6,16 +6,18 @@ image: /11-ide-collaboration.png
 # The IDE Integration Approach
 
 <!--
-*"Seamless collaboration within development environment"*
 
-**Lego:** Expert builder selecting their own pieces
+**Speaker Notes:**
+Main message: IDE integration empowers developers with context control but creates cognitive burden for relevance decisions
 
-**Parenting:** Collaborative decision-making with teenagers
+- Developer control
+- Context selection
+- Cognitive load
 
-The IDE integration approach represents the current state of the art for many developers. The AI becomes a collaborative partner right within your development environment.
+*Transition: Now let's see the pattern that emerges.*
 
-Like an expert Lego builder who knows exactly which pieces they need and can select them efficiently, or collaborative decision-making with teenagers who can contribute meaningfully to family choices.
+...
 
-**When it works well:** Real-time development assistance, code completion, contextual suggestions
-**Current considerations:** Still requires the developer to manage context and guide the interaction, but very effective for immediate productivity gains
+The IDE integration approach put control in the developer's hands. You select which files, which context, which information to share with the LLM. Like an expert Lego builder choosing exactly which pieces they need, or collaborative decision-making where you involve your teenager in choosing what information they need. While this works well for developer-controlled scenarios and focused tasks, it creates cognitive load on humans to assess context relevance - something mature AI systems could potentially handle independently.
+
 -->

@@ -7,21 +7,17 @@ image: /02-lego-transformation.png
 
 <!--
 
-*"Programming used to be like professional Lego building - you place every piece yourself"*
-
-*"Now I explain to the computer in German what I want to build, and it builds it like a Lego robot"*
-
 **Speaker Notes:**
+Main message: Programming has transformed from manual piece-by-piece work to natural language instruction of intelligent systems
 
-I used to tell my daughter that programming is like professional Lego building - only the cleanup is faster. You carefully place each piece, following your mental blueprint, building something complex from simple components.
+- Professional Lego
+- natural languages as interface
+- Dramatic transformation
 
-But recently, I had to update that explanation. Now I tell her: "I explain to the computer in German what I want to build, and it builds it like a Lego robot." The transformation has been that dramatic.
+*Transition: But this raises a fundamental question.*
 
-This image perfectly captures that transformation. On the left, we see the traditional approach - careful, methodical, piece-by-piece construction. On the right, we see the new reality - intelligent automation that understands intent and executes the vision.
+...
 
-[Audience Engagement] How many of you have tried to explain your job to your kids? [Show of hands, brief interaction]
+I used to explain programming to my daughter as "professional Lego building" where you place every piece yourself. Now I tell her it's like explaining to the computer in German what you want to build, and it builds it like a Lego robot. This transformation has been that dramatic - we've moved from manual, methodical construction to intelligent automation that understands intent and context. This raises the fundamental question of how AI systems became so capable at understanding what we want.
 
-The key insight here is that this transformation was only possible because the "robot" (our LLM) reached a level of maturity where it could understand context and intent, not just follow step-by-step instructions.
-
-But here's the thing...
 -->

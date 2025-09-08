@@ -16,9 +16,18 @@ layout: default
 </div>
 
 <!--
-This matrix illustrates the core principle. The same piece of information can be critical in one phase and pure noise in another.
 
-Requirements are critical when starting a project but become noise when you're deep in debugging. Error logs are essential for debugging but irrelevant when you're planning architecture.
+**Speaker Notes:**
+Main message: Information relevance shifts dramatically across development phases, requiring phase-aware context provision
 
-Traditional approaches either try to provide everything (information overload) or make humans decide what's relevant (cognitive overload). Context Engineering provides the right information for the current phase.
+- Information phases
+- Critical vs noise
+- Context Engineering
+
+*Transition: This leads us to a post-agentistic vision.*
+
+...
+
+This matrix illustrates the core principle. The same piece of information can be critical in one phase and pure noise in another. Requirements are critical when starting a project but become noise when you're deep in debugging. Error logs are essential for debugging but irrelevant when you're planning architecture. Traditional approaches either try to provide everything (information overload) or make humans decide what's relevant (cognitive overload). Context Engineering provides the right information for the current phase.
+
 -->
