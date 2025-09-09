@@ -1,9 +1,12 @@
 ---
-layout: image-lower-third
+layout: image-lower-third-video
 image: 22-no-secret-ingredient-panda.jpg
+video: /22-no-secret-ingredient-panda.mp4
 ---
 
 # There is no secret ingredient
+
+**Context is all you need**
 
 <!--
 
