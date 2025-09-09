@@ -1,6 +1,6 @@
 ---
 layout: image-lower-third
-image: /22-no-secret-ingredient.png
+image: /22-no-secret-ingredient-panda.jpg
 ---
 
 # There is no secret ingredient
