@@ -1,17 +1,9 @@
 ---
-layout: center
-class: text-center
+layout: image-lower-third
+image: 22-no-secret-ingredient-panda.jpg
 ---
 
 # There is no secret ingredient
-
-<div style="position: relative;overflow: hidden;width: 100%;max-width:600px;margin:0 auto;padding-top: 43%;">
-<iframe src="https://clip.cafe/e/373027" style="position: absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;height: 100%;"></iframe>
-</div>
-
-*Just like Po's noodle soup, there's no secret to LLM inference*
-
-**It's all about context**
 
 <!--
 

@@ -55,7 +55,7 @@ Main message: Engineers must develop a new skill progression - clear thinking le
 - Clear progression
 - Learnable discipline
 
-*Transition: But here's the crucial point about Context Engineering.*
+*Transition: But here's what I want you to remember about all of this.*
 
 ...
 

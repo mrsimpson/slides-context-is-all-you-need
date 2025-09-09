@@ -106,15 +106,7 @@ src: ./slides/21-new-skills-shift.md
 ---
 
 ---
-src: ./slides/22-the-opportunity.md
----
-
----
-src: ./slides/23-next-steps.md
----
-
----
-src: ./slides/24-final-thought.md
+src: ./slides/22-no-secret-ingredient.md
 ---
 
 ---
