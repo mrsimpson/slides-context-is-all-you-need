@@ -106,7 +106,11 @@ src: ./slides/21-new-skills-shift.md
 ---
 
 ---
-src: ./slides/22-no-secret-ingredient.md
+src: ./slides/22-panda-video.md
+---
+
+---
+src: ./slides/23-no-secret-ingredient.md
 ---
 
 ---
