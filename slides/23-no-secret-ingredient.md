@@ -1,11 +1,9 @@
 ---
 layout: image-lower-third
-image: /24-moment-of-clarity.png
+image: /22-no-secret-ingredient.png
 ---
 
 # There is no secret ingredient
-
-*Just like Po's noodle soup, there's no secret to LLM inference*
 
 **Context is all you need**
 
@@ -16,7 +14,7 @@ Main message: The revelation that there's no secret ingredient - just like in Ku
 
 - No secret ingredient
 - Just context
-- Simple truth
+- Engineering reflects in software
 
 *Transition: Thank you, and I'm happy to take your questions.*
 
