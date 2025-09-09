@@ -31,7 +31,7 @@ layout: default
     </div>
     <div class="layer-content">
       <h3>Long-term Memory</h3>
-      <p>Requirements, Documentation, RAG</p>
+      <p>Requirements, Documentation, RAG, Rules</p>
     </div>
   </div>
 </div>
@@ -57,7 +57,7 @@ layout: default
 }
 
 .layer:hover {
-  transform: translateX(10px);
+  transform: scale(110%, 110%);
 }
 
 .layer-conversation {
@@ -115,7 +115,7 @@ Layer 1 is Rich Conversation Context - organizing your thinking systematically, 
 
 Layer 2 is Process Memory - phase-aware development plans that track what phase you're in, what decisions you've made, what's been completed. 
 
-Layer 3 is Long-term Memory - requirements, architecture, and design documents that preserve your thinking across conversations and sessions. This may as well be captured outside the system, e. g. in knowledge databases connected via RAG. 
+Layer 3 is Long-term Memory - requirements, architecture, and design documents that preserve your thinking across conversations and sessions. This may as well be captured outside the system, e. g. in knowledge databases connected via RAG. Rules that provide principles / do's and dont's also fall into this category.
 
 These three layers provide the context AI needs to transform from chaotic assistant to capable execution partner.
 

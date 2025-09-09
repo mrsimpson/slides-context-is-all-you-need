@@ -14,7 +14,7 @@ Main message: Context Engineering is a legitimate engineering discipline requiri
 - Same rigor
 - Core expertise
 
-*Transition: The opportunity for those who master this is enormous.*
+*Transition: So what does this mean for engineers who want to stay relevant?*
 
 ...
 
