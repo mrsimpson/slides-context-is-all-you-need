@@ -32,6 +32,8 @@ Main message: Both humans and LLMs mature - maturity plus context enables good d
 
 ...
 
+**Reader Notes:**
+
 Think about how this works with humans first. The sum of technical skills combined with experiences creates maturity. When you give that mature person access to available knowledge, they make good decisions - what we might call "good guessing." The same pattern applies to LLMs. They've accumulated technical capabilities, integrated experience through training, and reached maturity. Now, when we provide them with the right context, they can make remarkably good decisions. This isn't magic - it's a predictable relationship we can understand and work with.
 
 -->

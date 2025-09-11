@@ -18,6 +18,8 @@ Main message: Provide concrete, actionable steps for beginning Context Engineeri
 
 ...
 
+**Reader Notes:**
+
 So where do you start? First, honestly assess how you currently supply context to AI systems. Are you using mega-prompts? Agent workflows? Manual selection? Each has its place, but recognize the limitations. Second, experiment with phase-aware context. Try providing different information based on what you're trying to accomplish. Notice the difference in AI responses. Third, consider building or adopting tools that support context engineering principles. Finally, share your learnings. Context Engineering is still emerging as a discipline. Your experiments and insights contribute to the collective understanding.
 
 -->

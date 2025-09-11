@@ -18,6 +18,8 @@ Main message: Each approach matched LLM maturity levels - now mature LLMs are re
 
 ...
 
+**Reader Notes:**
+
 Here's the pattern: each approach matched the maturity level of the LLMs available at the time. Early LLMs needed detailed instructions like young children. More capable LLMs could handle structured workflows like older children. But now we have mature LLMs that are ready for something different: true context-based collaboration. The question isn't which approach was right or wrong - it's recognizing when it's time to evolve to the next level.
 
 -->

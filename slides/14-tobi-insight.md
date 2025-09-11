@@ -29,6 +29,8 @@ Main message: Context Engineering represents a fundamental shift from process co
 
 ...
 
+**Reader Notes:**
+
 Tobi Lütke, CEO of Shopify, captured this perfectly. Context Engineering isn't just a buzzword - it's a fundamental shift in perspective. Prompt Engineering asks "How should the LLM work?" while Context Engineering asks "What information does it need?" It's the difference between being a micromanager who explains every step and being a good team leader who ensures all relevant information is available and lets the team work.
 
 -->

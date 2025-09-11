@@ -19,6 +19,8 @@ Main message: Introduce Context Engineering as the most critical skill shift for
 
 ...
 
+**Reader Notes:**
+
 I'm here to talk about what I believe is the most important skill shift happening in software development right now. It starts with a conversation I had with my daughter. Context Engineering - not prompt engineering or agent management - represents the fundamental skill you need to master for effective AI collaboration. This presentation will show you why this shift matters, how we got here, and what it means for your daily work as a developer – and why it actually works.
 
 -->

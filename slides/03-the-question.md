@@ -18,6 +18,8 @@ Main message: Challenge the audience to think about why LLMs are so effective at
 
 ...
 
+**Reader Notes:**
+
 This raises a fundamental question I keep coming back to: How can these LLMs be so incredibly good at guessing what we want? The answer isn't magic - it follows a pattern we recognize from human development. Understanding this is key to unlocking the potential of AI collaboration.
 
 -->

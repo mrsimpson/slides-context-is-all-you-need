@@ -109,6 +109,8 @@ Main message: Three-layer framework provides practical structure for maintaining
 
 ...
 
+**Reader Notes:**
+
 Once you establish clear thinking, you need a practical framework to maintain and provide that clarity. This is the three-layer context engineering approach I developed while building workflows. 
 
 Layer 1 is Rich Conversation Context - organizing your thinking systematically, asking the right questions, clarifying requirements methodically. 

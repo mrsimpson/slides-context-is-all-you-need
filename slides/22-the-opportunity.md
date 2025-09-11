@@ -59,6 +59,8 @@ Main message: Context Engineering mastery provides enormous competitive advantag
 
 ...
 
+**Reader Notes:**
+
 The opportunity for those who master Context Engineering is enormous. You'll collaborate more effectively with AI systems, achieve better project outcomes, reduce your own cognitive load, and create significant competitive differentiation. While others are still micromanaging AI tools or struggling with information overload, you'll be working in true partnership with mature AI systems. This isn't just about being more productive - it's about fundamentally changing how software gets built and how problems get solved.
 
 -->
