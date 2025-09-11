@@ -8,11 +8,11 @@ image: /03-questioning-moment.png
 <!--
 
 **Speaker Notes:**
-Main message: Challenge the audience to think about why LLMs are so effective at understanding intent
+Main message: We probably all apply GenAI in our daily life and are fascinated, but don't question it as a *tool*
 
-- Fundamental question
+- LLMs create probability distribution
 - Not magic
-- Human-like pattern -> Understanding is matter of maturity
+- Improved significantly over time. Why?
 
 *Transition: The answer follows a pattern we recognize from human development: It's about maturity.*
 
@@ -20,6 +20,8 @@ Main message: Challenge the audience to think about why LLMs are so effective at
 
 **Reader Notes:**
 
-This raises a fundamental question I keep coming back to: How can these LLMs be so incredibly good at guessing what we want? The answer isn't magic - it follows a pattern we recognize from human development. Understanding this is key to unlocking the potential of AI collaboration.
+This raises a fundamental question: How can these LLMs be so incredibly good at guessing what we want? The answer isn't magic - And it improved significantly over the past months. By why, actually? 
+
+Understanding this is key to unlocking the potential of AI collaboration.
 
 -->

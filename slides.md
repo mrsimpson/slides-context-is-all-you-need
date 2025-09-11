@@ -66,10 +66,6 @@ src: ./slides/11-ide-integration.md
 ---
 
 ---
-src: ./slides/12-the-pattern.md
----
-
----
 src: ./slides/13-next-evolution.md
 ---
 

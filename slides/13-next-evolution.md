@@ -14,7 +14,6 @@ image: /13-next-phase.png
 **Speaker Notes:**
 Main message: Context Engineering represents the natural next evolution for mature LLM collaboration
 
-- Natural progression
 - Mature LLMs
 - Collaboration shift
 

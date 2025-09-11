@@ -51,9 +51,9 @@ It's your foundation, so make sure it's up-to-date
 **Speaker Notes:**
 Main message: Engineers must develop a new skill progression - clear thinking leads to good context which enables effective AI collaboration
 
-- Skills evolution
-- Clear progression
-- Learnable discipline
+- New and old skills
+- Discipline
+- "information developer"
 
 *Transition: But here's what I want you to remember about all of this.*
 
@@ -61,6 +61,12 @@ Main message: Engineers must develop a new skill progression - clear thinking le
 
 **Reader Notes:**
 
-This is the skills evolution that developers need to master. It's not about replacing coding skills - it's about adding a new dimension to our expertise. Clear Thinking is the foundation - systematic problem analysis, requirement clarity, organized approach to complex challenges. Good Context is the practical implementation through the three-layer framework we discussed. Good AI Inference happens when you provide clear context - AI transforms from chaotic assistant into capable execution partner. Living Documentation creates the multiplier effect, enabling sustained collaboration across sessions and projects. The progression is crucial: Clear Thinking enables Good Context, which enables Good AI Inference, amplified by Documentation for long-term effectiveness.
+This is the skills evolution that developers need to master. It's not about replacing coding skills - it's about adding a new dimension to our expertise. Clear Thinking is the foundation - systematic problem analysis, requirement clarity, organized approach to complex challenges. 
+
+Good Context is the practical implementation through the three-layer framework we discussed. Good AI Inference happens when you provide clear context - AI transforms from chaotic assistant into capable execution partner. 
+
+Living Documentation as a major pillar of long-term knowledge creates the multiplier effect, enabling sustained collaboration across sessions and projects. 
+
+The progression is crucial: Clear Thinking enables Good Context, which enables Good AI Inference, amplified by Documentation for long-term effectiveness.
 
 -->

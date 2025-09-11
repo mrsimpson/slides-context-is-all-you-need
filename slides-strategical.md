@@ -50,10 +50,6 @@ src: ./slides/08-evolution-intro.md
 ---
 
 ---
-src: ./slides/12-the-pattern.md
----
-
----
 src: ./slides/13-next-evolution.md
 ---
 
@@ -70,15 +66,7 @@ src: ./slides/21-skills-shift-strategical.md
 ---
 
 ---
-src: ./slides/22-the-opportunity.md
----
-
----
 src: ./slides/23-next-steps.md
----
-
----
-src: ./slides/24-final-thought.md
 ---
 
 ---

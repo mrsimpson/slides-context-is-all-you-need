@@ -16,9 +16,9 @@ Main message: LLM maturity traces to Transformers architecture and attention mec
 
 - Transformers breakthrough
 - Attention mechanism
-- Context-aware processing
+- Knowledge and relations as result of training, but inference needs **relevant** context!
 
-*Transition: So where does this leave us today?*
+*Transition: And transformers has evolved, having reached a new level of maturity*
 
 ...
 

@@ -14,7 +14,7 @@ Main message: IDE integration empowers developers with context control but creat
 - Context selection
 - Cognitive load
 
-*Transition: Now let's see the pattern that emerges.*
+*Transition: With huge context windows and evolved attention algorithms, we can move on...*
 
 ...
 

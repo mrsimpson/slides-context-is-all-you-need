@@ -24,11 +24,10 @@ $$
 **Speaker Notes:**
 Main message: Both humans and LLMs mature - maturity plus context enables good decision-making
 
-- Human pattern
-- LLM parallel
-- Context enables
+- Evolution – similar to humans
+- Like a mature human, it needs **relevant** knowledge
 
-*Transition: But what exactly makes something mature?*
+*Transition: Before we move to the context: What exactly makes something mature?*
 
 ...
 
