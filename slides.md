@@ -66,6 +66,10 @@ src: ./slides/11-ide-integration.md
 ---
 
 ---
+src: ./slides/12-vibe-coding.md
+---
+
+---
 src: ./slides/13-next-evolution.md
 ---
 

@@ -3,7 +3,7 @@ layout: image-lower-third
 image: /03-questioning-moment.png
 ---
 
-# LLMs dont plan – they ~guess~!<br> But how can they so good at guessing?
+# LLMs dont plan – they guess!<br> But how can they so good at guessing?
 
 <!--
 **Speaker Notes:**
