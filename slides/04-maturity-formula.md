@@ -27,7 +27,7 @@ Main message: Both humans and LLMs mature - maturity plus context enables good d
 - Like a mature human, it needs **relevant** knowledge
 - Like when you talk to an experienced colleague: The more mature + the more you explain, the better his contribution
 
-*Transition: Before we move to the context: What exactly makes something mature?*
+*Transition: But even with all maturity, the roots define what's possible*
 
 ...
 
