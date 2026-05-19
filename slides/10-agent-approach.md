@@ -5,29 +5,29 @@ image: /10-agent-workflow.png
 
 # The Agent Approach
 
+**Best for:** Workflows with deliberately diverse roles, different angles, different tools
+
 <!--
-
 **Speaker Notes:**
-Main message: Agent approach provides sophisticated specialization but can constrain flexibility - matched early-mid 2024 maturity
+Main message: Agents aren't about compensating for model limitations — they're about deliberately introducing diversity of perspective and tooling
 
-- Early-mid 2024: Intelligence 85%+, Memory 32K-128K, Autonomy 10-60 min
-- Specialized systems for different functions
-- Assembly line metaphor
-- Good for complex workflows with handoffs
-- Limitation: Context sharing overhead, coordination burden
+- Deliberate role separation: critic, implementer, tester
+- Different tools per agent: search, code execution, DB queries
+- ⚠️ Coordination overhead — overkill for simple tasks
+- ⚠️ Context sharing between agents is non-trivial
+- ⚠️ Parallel execution is a two-sided sword
 
-*Transition: Then came IDE integration, putting control in developers' hands.*
+*Transition: When you already know exactly what to look at, IDE integration is more direct.*
 
 ...
 
 **Reader Notes:**
 
-The agent approach emerged as a sophisticated solution when LLMs reached the early-mid 2024 maturity level.
+The agent approach is often misunderstood as a workaround for model limitations. Today, it's better understood as a deliberate architectural choice: you *want* different perspectives.
 
-With **strong reasoning, larger context windows (32K-128K), and 10-60 minute autonomy**, separate systems for different functions became viable. One agent searches files, another analyzes dependencies, a third makes decisions about relevance. Like an assembly line where each worker has a specific role, or structured family activities where everyone has clear responsibilities.
+A critic agent and an implementer agent will produce better results than a single agent asked to "be critical and then implement" — because the role separation is structural, not just instructional. Similarly, agents with different tool access (web search, code execution, database queries) can work in parallel on different aspects of a problem.
 
-The approach worked because models could now handle complexity within their domain, but still needed orchestration for multi-step workflows. Each agent had enough context for its specific task, but not enough to handle everything independently.
+The key word is *deliberately*: you're not splitting work because the model can't handle it all — you're splitting it because different roles genuinely benefit from different contexts and constraints.
 
-While this works well for complex workflows and specialized tasks that benefit from dedicated focus, it can limit the natural flexibility of mature LLMs: Conversation context needs to be shared explicitly, concurrency is a challenge for parallel-acting agents, and the coordination overhead can become significant.
-
+The coordination overhead is real, so agents are overkill for simple tasks. But for complex workflows where diverse perspectives add value, they're the right tool.
 -->

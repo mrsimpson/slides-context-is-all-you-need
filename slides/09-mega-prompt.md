@@ -5,30 +5,27 @@ image: /09-robot-information-overload.png
 
 # The Mega-Prompt Approach
 
+**Best for:** Well-defined tasks with stable, comprehensive instructions
+
 <!--
-
 **Speaker Notes:**
-Main message: The mega-prompt approach was simple to implement, but **low coherence** - matched 2023 maturity
+Main message: Mega-prompts are a valid choice today for well-scoped, stable tasks — capable models can follow even very complex instructions
 
-- 2023: Intelligence 70%, Memory 4K-8K, Autonomy minutes
-- Pack everything upfront (no other choice)
-- Comprehensive instructions in system prompt
-- Fast showcases
-- Limitation: Information overload, reduces coherence
-- Still valuable for specific scenarios
+- Capable models handle complex prompts well
+- Predictable, stable tasks: code review bots, formatters, classifiers
+- Single-shot control, no orchestration overhead
+- ⚠️ Static instructions become a constraint for evolving tasks
+- ⚠️ Low coherence leads to worse inference
 
-*Transition: As LLMs became more capable, we developed the agent approach.*
+*Transition: When you want multiple perspectives or specialized tools, agents are the better fit.*
 
 ...
 
 **Reader Notes:**
 
-The mega-prompt approach made perfect sense for showing-off LLMs capabilities in 2023. 
+The mega-prompt approach gets a bad reputation, but with today's highly capable models it's often the right choice. Modern LLMs can follow very complex, multi-part instructions without losing coherence — the information overload concern of 2023 is largely gone.
 
-When LLMs had **limited intelligence, small memory, and low autonomy**, you had to pack everything in because they couldn't reason across large contexts or work independently. Like giving a new Lego builder a comprehensive instruction manual, or writing detailed household rules for young children, when LLMs needed explicit guidance for every scenario, packing everything into a massive system prompt was the logical solution.
+Mega-prompts shine when the task is well-defined and stable: a code review assistant, a document formatter, a classification pipeline. You write the instructions once, the model executes reliably. Full control, no orchestration overhead, easy to reason about.
 
-With only 4K-8K token windows and basic reasoning, there was no other choice - you gave them everything upfront or they couldn't function.
-
-However, this can cause information overload with today's mature LLMs, as it reduces *coherence* - forcing the model to sift through irrelevant instructions on every inference. It still has value for specific, well-defined scenarios, but it's no longer the optimal general approach.
-
+The limitation isn't capability — it's fit. For open-ended, creative, or evolving tasks, a static mega-prompt becomes a constraint rather than a guide.
 -->

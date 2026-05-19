@@ -5,29 +5,30 @@ image: /11-ide-collaboration.png
 
 # The IDE Integration Approach
 
+**Best for:** Targeted fixes where the context is already known
+
 <!--
-
 **Speaker Notes:**
-Main message: IDE integration empowers developers with "look at this" pointing - but creates cognitive burden
+Main message: IDE integration is the right tool when you know exactly what to look at — precision over breadth
 
-- Late 2024: Intelligence ~90%, Memory 128K-200K, Autonomy 1-2 hours
-- Developer as human-in-the-loop: points to files, functions
-- "Look at this" interaction model
-- LLMs work well with pointed-to context
-- Limitation: Cognitive load, workflow interruption, pointing becomes bottleneck
+- You already know the file, the function, the problem
+- Great for: bug fixes, refactoring, explaining specific code
+- Developer's domain knowledge *is* the context — nothing to engineer
+- ⚠️ Doesn't scale to exploratory or open-ended work
+- ⚠️ You must already know what's relevant
+- ⚠️ Limits out-of-the-box solutions
 
-*Transition: With huge context windows and evolved attention algorithms, we can move on...*
+*Transition: For creative and iterative work, context engineering is the right approach.*
 
 ...
 
 **Reader Notes:**
 
-The IDE integration approach put control in the developer's hands through explicit "look at this" pointing.
+IDE integration is at its best when you already have the answer to "what's relevant?" — you just need help executing.
 
-With **expert-level reasoning and adequate context windows**, LLMs could work effectively with whatever you pointed them to. The developer acts as human-in-the-loop: select THIS file, highlight THESE functions, include THIS documentation. Like an expert Lego builder where you hand them exactly which pieces they need, or working with your teenager by pointing: "Look at this example, now try it yourself."
+You've diagnosed the bug, you know which function is wrong, you want it fixed. You select the file, point the model at it, and get a precise result. The developer's existing knowledge *is* the context — there's nothing to engineer, just something to point at.
 
-The approach worked because models were now smart enough to effectively use the context you explicitly provided - but they still needed YOU to identify and point to what was relevant. You became the context pointer, the relevance filter, the "look here" guide.
+This is efficient and effective for targeted, well-scoped work. It's the right tool for a large portion of daily development tasks: fixing a specific issue, refactoring a known function, getting an explanation of a piece of code you're reading.
 
-While this works well for focused tasks where you know exactly what's relevant, it creates cognitive load and workflow interruption: you must stop, think about what's relevant, select it, point to it, then continue. The developer's time becomes split between problem-solving and context curation. With mature AI systems that have million-token windows and graduate-level reasoning, the question becomes: do we still need the human to do all the pointing?
-
+Where it breaks down is open-ended work — when you don't yet know what's relevant, when the problem is still being defined, when you're exploring. That's where context engineering takes over.
 -->

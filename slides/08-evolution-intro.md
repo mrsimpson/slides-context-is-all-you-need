@@ -3,37 +3,33 @@ layout: image-lower-third
 image: /08-evolution-timeline.png
 ---
 
-# Adequate context by Maturity Level
+# Each Approach Has Its Place
 
-**Each approach matched the capabilities of its time:**
+**With capable models, the question is no longer "which era?" but "which use case?":**
 
-- **2023:** Mega-Prompt (low autonomy, small context)
-- **2024:** Agents (growing autonomy, larger context)
-- **2024:** IDE Integration (developer steered, massive context)
-- **2025+:** Context Engineering → ?
+- **Mega-Prompt:** Well-defined tasks
+- **Agents:** Workflows with deliberately diverse roles
+- **IDE Integration:** Targeted fixes
+- **Context Engineering:** Human-Agent Co-Creation
 
 <!--
-
 **Speaker Notes:**
-Main message: Different LLM interaction approaches matched their respective maturity levels appropriately
+Main message: All four approaches remain valid today — the choice depends on the nature of the task, not the year
 
-- It's all about supplying context
-- As models matured → way to provide context evolved
-- Relying on "Attention is All You Need" mechanism at massive scale
-- Critical question: What's appropriate for current maturity?
+- Models are now capable enough to follow even very complex prompts
+- The question shifted: not "what can the model handle?" but "what fits the task?"
+- Each approach optimizes for a different dimension: control, specialization, precision, creativity
+- Critical question: What does YOUR task look like?
 
-*Transition: Let's look at each of these approaches in more detail, starting with the mega-prompt approach.*
+*Transition: Let's look at each of these approaches and when they shine.*
 
 ...
 
 **Reader Notes:**
 
-Let's look at how our approaches to working with LLMs have evolved. What's important to understand is that these weren't failures - they were appropriate responses to different levels of LLM maturity.
+While these approaches followed up historically, they didn't replace each other. With today's highly capable models, all four remain valid — the right choice depends on the nature of your task, not on which year it is.
 
-Each approach matched the capabilities available at that time - from mega-prompts when context was limited, to agents when orchestration was needed, to IDE integration when developers could manage substantial context. But now, with all three dimensions at unprecedented levels, we need to ask: What's the appropriate approach for LLMs that can reason at graduate level, process million-token contexts, and work independently for hours?
+Mega-prompts work well when the task is well-defined and you want full control in a single instruction. Agents shine when you deliberately want different perspectives, tools, or roles working in parallel. IDE integration is ideal when you already know exactly what context is relevant and want a targeted fix. Context Engineering is the approach for open-ended, creative, iterative work — where you and the AI are building something together.
 
-The pattern is clear: **as maturity increases across all three dimensions, the nature of optimal context provision changes fundamentally.**
-
-How do you currently supply context to your LLM? As we explore these approaches, think about where your current practices fit in this evolution - and where they might need to evolve next.
-
+Understanding which mode fits your situation is itself a core skill.
 -->
